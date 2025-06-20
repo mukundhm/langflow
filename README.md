@@ -45,7 +45,7 @@ pip install langflow
 
 ## 📦 Deployment
 
-### Self-managed
+### Self-manage
 
 Langflow is completely open source and you can deploy it to all major deployment clouds. Follow this [guide](https://docs.langflow.org/deployment-docker) to learn how to use Docker to deploy Langflow.
 
